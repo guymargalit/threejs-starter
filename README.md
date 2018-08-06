@@ -1,6 +1,6 @@
 <h1 align="center">three.js starter</h1>
 
-<p align="center"><img width="800" alt="three-js starter" src="https://github.com/guymargalit/threejs-starter/blob/master/public/images/threejs.png"></p>
+<p align="center"><img width="800" alt="three-js starter" src="https://github.com/guymargalit/threejs-starter/blob/master/src/images/threejs.png"></p>
 
 <p align="center"><b>A lightweight three.js starter boilerplate for building 3D JavaScript applications.</b></p>
 
@@ -29,4 +29,4 @@ Then open in your browser **[http://localhost:5000](http://localhost:5000)**.
 
 If everything worked correctly, you should see the following:
 
-![three.js application](https://github.com/guymargalit/threejs-starter/blob/master/public/images/sample.png)
+![three.js application](https://github.com/guymargalit/threejs-starter/blob/master/src/images/sample.png)
