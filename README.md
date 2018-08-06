@@ -1,6 +1,6 @@
 <h1 align="center">three.js starter</h1>
 
-<p align="center"><img width="480" alt="three-js starter" src="https://github.com/guymargalit/threejs-starter/blob/master/public/images/threejs.png"></p>
+<p align="center"><img width="800" alt="three-js starter" src="https://github.com/guymargalit/threejs-starter/blob/master/public/images/threejs.png"></p>
 
 <p align="center"><b>A lightweight three.js starter boilerplate for building 3D JavaScript applications.</b></p>
 
