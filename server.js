@@ -2,7 +2,10 @@ const express = require('express');
 const app = express();
 const port = 5000;
 
-app.use(express.static('public'));
+let requirejs = require('requirejs');
+requirejs.config({ nodeRequire: require });
+
+app.use(express.static('src'));
 
 app.get('/', (req, res) => {
 	res.sendFile(express.static);
