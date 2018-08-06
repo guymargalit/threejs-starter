@@ -1,10 +1,12 @@
 <h1 align="center">three.js starter</h1>
 
+<p align="center"><img width="480" alt="three-js starter" src="https://github.com/guymargalit/threejs-starter/blob/master/public/images/threejs.png"></p>
+
 <p align="center"><b>A lightweight three.js starter boilerplate for building 3D JavaScript applications.</b></p>
 
 A starter three.js web application configured with an Express server. The packages and libraries included are as follows:
 
--   three.js :
+-   three.js
 -   Detector.js
 -   OrbitControls.js
 -   stats.min.js
@@ -24,3 +26,7 @@ yarn start  # Start the local development server.
 ```
 
 Then open in your browser **[http://localhost:5000](http://localhost:5000)**.
+
+If everything worked correctly, you should see the following:
+
+![three.js application](https://github.com/guymargalit/threejs-starter/blob/master/public/images/sample.png)
