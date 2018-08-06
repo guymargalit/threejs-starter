@@ -1,7 +1,9 @@
 if (!Detector.webgl) Detector.addGetWebGLMessage();
+
 let scene, camera, controls, ambient, point, loader, renderer, container, stats;
 init();
 animate();
+
 function init() {
 	// Create a scene which will hold all our meshes to be rendered
 	scene = new THREE.Scene();
